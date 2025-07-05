@@ -58,7 +58,7 @@ fn main() {
         t += h;
     }
 }
-📎 Output can be copied and saved as solution.csv.
+📎 Output can be copied and saved as solution_fixed.csv.
 
 📊 Plotting in Python (Google Colab Compatible)
 Use the following code to plot the numerical vs analytical solutions and error.
