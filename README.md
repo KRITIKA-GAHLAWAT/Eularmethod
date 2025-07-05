@@ -1,3 +1,6 @@
+# https://www.programiz.com/online-compiler/98M0cAeP0DqlD
+# this is the link for online rust code
+
 # 🦀 Euler Method in Rust with Python Plotting (Colab + CSV)
 
 This project solves an initial value problem (IVP) using the **Euler method** in **Rust**, and optionally compares the numerical solution with the analytical one using **Python in Google Colab**.
@@ -22,9 +25,9 @@ Solve the ODE:
 
 ---
 
-## 🦀 Euler Method in Rust (Online Compatible)
+## 🦀 Euler Method in Rust (Online Complier)
 
-You can run this code directly in the [Rust Playground](https://play.rust-lang.org):
+You can run this code directly in the [Rust online compiler] ([https://play.rust-lang.org](https://www.programiz.com/online-compiler/98M0cAeP0DqlD)):
 
 ```rust
 fn f(t: f64, y: f64) -> f64 {
@@ -95,8 +98,6 @@ README.md – This file
 🚀 How to Use
 Run the Rust code online or locally to generate solution data.
 
-Save the output as solution.csv
-
-Clean or use solution_fixed.csv
+Save the output as solution_fixed.csv
 
 Plot using Python in Google Colab or locally.
